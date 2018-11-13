@@ -7,7 +7,7 @@ At the end of these instructions you will have:
 conda create -n torch python=3.6
 
 # activate the created environment
-conda activate torch
+source activate torch
 
 # install numpy
 pip install numpy
